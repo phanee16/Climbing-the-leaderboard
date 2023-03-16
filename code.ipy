@@ -1,3 +1,4 @@
+
 def climbingLeaderboard(ranked, player):
     # Remove duplicates from ranked scores and sort in descending order
     unique_scores = sorted(set(ranked), reverse=True)
