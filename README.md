@@ -42,4 +42,3 @@ Sample Input :
 Sample Output : 
 <img width="62" alt="image" src="https://user-images.githubusercontent.com/47351536/225629324-eed5e815-f0fe-4a04-a034-baee5c3765fa.png">
 
-Sample Output : 
